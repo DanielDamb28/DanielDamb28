@@ -6,7 +6,7 @@ Eu tenho 19 anos, estou cursando Ciência da Computação, gosto de programar e 
 <center>
 
 <div align="center">
-    <a href="https://github.com/https://github.com/DanielDamb28/">
+    <a href="https://github.com/DanielDamb28/">
         <img height="175rem" width="460rem" src="https://github-readme-stats.vercel.app/api?username=DanielDamb28&count_private=true&theme=transparent"/>
         <img height="175rem" width="340rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDamb28&layout=compact&theme=transparent"/>
     </a>
