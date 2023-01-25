@@ -5,9 +5,12 @@ Eu tenho 19 anos, estou cursando Ciência da Computação, gosto de programar e 
 <div style="display: inline_block"> <br>
 <center>
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDamb28&count_private=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDamb28&layout=compact&theme=transparent)](https://github.com/DanielDamb28/github-readme-stats)
+<div align="center">
+    <a href="https://github.com/https://github.com/DanielDamb28/">
+        <img height="175rem" width="460rem" src="https://github-readme-stats.vercel.app/api?username=DanielDamb28&count_private=true&theme=transparent"/>
+        <img height="175rem" width="340rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDamb28&layout=compact&theme=transparent"/>
+    </a>
+</div>
 
 </center>
 </div>
