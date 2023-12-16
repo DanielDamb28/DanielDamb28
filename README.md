@@ -1,6 +1,6 @@
 ##  Olá! Eu sou o Daniel 🏀
 
-Eu tenho 19 anos, estou cursando Ciência da Computação, gosto de programar e estou tentando entrar nesse universo da programação
+Eu tenho 20 anos, estou cursando Ciência da Computação, gosto de programar e estou tentando entrar nesse universo da programação
 
 <div style="display: inline_block"> <br>
 <center>
